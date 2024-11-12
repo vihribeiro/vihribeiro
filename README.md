@@ -22,6 +22,8 @@ Atualmente, trabalho como **Técnico Especialista em Hardware**, com foco em ele
 - **Java**
 - **PHP**
 - **SQL**
+- **CSS**
+- **HTML**
 
 ---
 
