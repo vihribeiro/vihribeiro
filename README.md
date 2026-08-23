@@ -5,7 +5,7 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia desde criança — comecei desmontando eletrônicos, hoje construo sistemas completos do zero. Atuo como **Técnico Especialista em Hardware** no Mackenzie, com foco em reparo de placas e manutenção de equipamentos Apple e não Apple, e estou cursando o 2º semestre de **Análise e Desenvolvimento de Sistemas** na Universidade Presbiteriana Mackenzie.
+Sou apaixonado por tecnologia desde criança — comecei desmontando eletrônicos, hoje construo sistemas completos do zero. Atuo como **Técnico Especialista em Hardware** no Mackenzie, com foco em reparo de placas e manutenção de equipamentos Apple e não Apple, formado em **Análise e Desenvolvimento de Sistemas** na Universidade Presbiteriana Mackenzie.
 
 Criei projetos reais, como:
 - [🔗 viniciusribeiro.dev.br](https://viniciusribeiro.dev.br) – Meu portfólio pessoal
