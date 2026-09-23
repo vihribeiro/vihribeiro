@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Frontend Júnior</strong><br>
-  Angular · TypeScript · APIs REST · São Paulo, SP
+  JavaScript · TypeScript · Angular · React &amp; Next.js · São Paulo, SP
 </p>
 
 <p align="center">
@@ -15,21 +15,23 @@
 
 ## Sobre mim
 
-Sou desenvolvedor de software com foco em frontend. Construo interfaces com **Angular** e **TypeScript**, cuidando de responsividade, componentização e integração com APIs REST. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (2026) e, além do desenvolvimento, atuo com infraestrutura e hardware, o que me deu uma base forte de resolução de problemas.
+Sou desenvolvedor frontend, com base sólida em **JavaScript** e **TypeScript**. Desenvolvo interfaces com **Angular** e também com **React/Next.js**, sempre com foco em responsividade, componentização e integração com APIs REST.
 
-Gosto de entregar projetos completos: do layout à publicação, com testes, versionamento e deploy automatizado. Abaixo estão meus projetos de estudo e também sites que desenvolvi para clientes.
+Já coloquei sites em produção para clientes de áreas diferentes (assistência técnica, fotografia e consultoria) e mantenho projetos de estudo publicados, como um painel de gestão de vendas, uma biblioteca de componentes e uma aplicação que consome API real. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie (2026) e tenho experiência prévia com infraestrutura e hardware, o que me deu uma base forte de resolução de problemas.
+
+Gosto de entregar o trabalho completo: do layout à publicação, com versionamento, testes e deploy automatizado.
 
 ## Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
