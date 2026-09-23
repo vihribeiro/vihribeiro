@@ -41,6 +41,11 @@ Gosto de entregar o trabalho completo: do layout à publicação, com versioname
 
 ## Projetos em destaque
 
+### Vitrine · Catálogo de produtos
+Catálogo em React + Vite + TypeScript com busca, filtros por categoria, paginação e página de detalhe. Camada de API tipada, tema claro/escuro, animações (cursor, transições e reveal) e testes.
+`React` · `Vite` · `TypeScript` · `Tailwind CSS` · `Vitest`
+[Demo](https://vitrine.viniciusribeiro.dev.br) · [Código](https://github.com/vihribeiro/vitrine)
+
 ### Seller Hub · Painel de gestão de vendas
 Aplicação em Angular 22 com login, dashboard de indicadores, gráfico de faturamento, listagem de pedidos com busca e paginação, e CRUD de produtos. Usa standalone components, signals, `rxResource`, reactive forms e interceptors.
 `Angular` · `TypeScript` · `RxJS` · `Vitest`
