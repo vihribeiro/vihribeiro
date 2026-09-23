@@ -3,18 +3,18 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou apaixonado por tecnologia desde criança — comecei desmontando eletrônicos, hoje construo sistemas completos do zero. Atuo como **Técnico Especialista em Hardware** no Mackenzie, com foco em reparo de placas e manutenção de equipamentos Apple e não Apple, formado em **Análise e Desenvolvimento de Sistemas** na Universidade Presbiteriana Mackenzie.
 
 Criei projetos reais, como:
-- [🔗 viniciusribeiro.dev.br](https://viniciusribeiro.dev.br) – Meu portfólio pessoal
-- 🛠️ [Expondo Digital](https://expondodigital.com) – Plataforma SaaS de catálogos online
-- 🎮 Sistema de apostas interno com placar, ranking e layout responsivo
+- [ viniciusribeiro.dev.br](https://viniciusribeiro.dev.br) – Meu portfólio pessoal
+-  [Expondo Digital](https://expondodigital.com) – Plataforma SaaS de catálogos online
+-  Sistema de apostas interno com placar, ranking e layout responsivo
 
 ---
 
-## 🔧 Tecnologias & Skills
+##  Tecnologias & Skills
 
 | Stack Principal | Outras Skills |
 |-----------------|---------------|
@@ -24,15 +24,15 @@ Criei projetos reais, como:
 
 ---
 
-## 📂 Projetos em destaque
+##  Projetos em destaque
 
-- ✍️ [signature_generate](https://github.com/vihribeiro/signature_generate) – Gerador de assinatura caligráfica com preview ao vivo e exportação
-- 🧮 [Calculadora de Notas - EAD Mackenzie](https://chromewebstore.google.com/detail/calculadora-de-notas-ead/kkendcicomcibmghoeolididnnaklkbi?hl=pt-BR&utm_source=ext_sidebar) – Extensão para facilitar cálculo de médias
-- 🔧 [realfixreparos.com.br](https://realfixreparos.com.br) – Site completo para assistência técnica Apple
+-  [signature_generate](https://github.com/vihribeiro/signature_generate) – Gerador de assinatura caligráfica com preview ao vivo e exportação
+-  [Calculadora de Notas - EAD Mackenzie](https://chromewebstore.google.com/detail/calculadora-de-notas-ead/kkendcicomcibmghoeolididnnaklkbi?hl=pt-BR&utm_source=ext_sidebar) – Extensão para facilitar cálculo de médias
+-  [realfixreparos.com.br](https://realfixreparos.com.br) – Site completo para assistência técnica Apple
 
 ---
 
-## 🌎 Idiomas
+##  Idiomas
 
 - 🇧🇷 **Português** – Nativo  
 - 🇺🇸 **Inglês** – Leitura (50%) • Escrita (40%)  
@@ -40,7 +40,7 @@ Criei projetos reais, como:
 
 ---
 
-## ✉️ Contato
+##  Contato
 
 Quer bater um papo ou ver algum projeto em funcionamento?  
 Acesse: [https://viniciusribeiro.dev.br](https://viniciusribeiro.dev.br)  
